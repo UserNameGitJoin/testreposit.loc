@@ -1,5 +1,5 @@
 <?php 
 
-echo 'test new!';
+echo 'test new 2!';
 
 ?>
